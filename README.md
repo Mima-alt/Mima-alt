@@ -1,4 +1,4 @@
-# Hi, I'm Mima-alt 👋
+# Hi, I'm Jemima 👋
 
 Welcome to my GitHub profile!
 
