@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+My name is Mima!
+⚡ I am an information security analsyt and technical writer
+🔭 I’m currently working on building my github page
+👯 Happy to connect and collaborate! 
 <!--
 **Mima-alt/Mima-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
