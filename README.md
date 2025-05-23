@@ -1,19 +1,25 @@
-## Hi there 👋
-My name is Mima!
-⚡ I am an information security analsyt and technical writer
-🔭 I’m currently working on building my github page
-👯 Happy to connect and collaborate! 
-<!--
-**Mima-alt/Mima-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mima-alt 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+I'm a passionate information security professional specializing in technical writing and governance, risk, and compliance (GRC). I thrive on transforming complex concepts into clear, actionable documentation and ensuring best practices in security, compliance, and risk management.
+
+> I view the world in text and formats.
+
+## 🛡️ Areas of Expertise
+
+- **Information Security**
+- **Technical Writing**
+- **Governance, Risk, and Compliance (GRC)**
+- **Security Best Practices & Frameworks**
+- **Policy Development & Documentation**
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/jemimasubair)
+
+---
+
+Thanks for stopping by!
